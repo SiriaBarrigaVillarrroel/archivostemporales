@@ -5,5 +5,8 @@ Básicamente, un archivo temporal es creado por el software con el fin de conten
 
 Características de los Archivos Temporales
 
+
 •	Los archivos temporales se actualizan periódicamente
+
+
 •	Los archivos temporales suelen tener extensiones ".tmp".
